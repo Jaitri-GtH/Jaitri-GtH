@@ -1,15 +1,12 @@
+
 <h1 align="center">Hi 👋, I'm Jaitri Taraphdar</h1>
-<h3 align="center">A passionate Data Analyst and Market Researcher from India</h3>
+<h3 align="center">A passionate and enthusiastic Data Analyst and Market Researcher from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaitri-gth&label=Profile%20views&color=0e75b6&style=flat" alt="jaitri-gth" /> </p>
+<img align="right" alt="coding" width="400" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif"> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaitri-gth" alt="jaitri-gth" /></a> </p>
-
-- 🌱 I’m currently learning **Computer Application and other techinical tools**
+- 🌱 I’m currently learning **Computer Application and other techinical tools with data science knowledge**
 
 - 👯 I’m looking to collaborate on **Data Analysis projects**
-
-- 🤝 I’m looking for help with **data analysis**
 
 - 📫 How to reach me **jaitritaraphdar@gmail.com**
 
